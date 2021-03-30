@@ -1,5 +1,5 @@
 # Yelp-dataset
-Big Data project: Designed and answered good data science questions for the [yelp]: (http://yelp.co.uk) unstructured big dataset.
+Big Data project: Designed and answered good data science questions for the [yelp][http://yelp.co.uk] unstructured big dataset.
 
 •	Scope: Designed and answered good data science questions for the Yelp unstructured big dataset (~8 GB). </br>
 •	The packages used: Apache Spark/Hadoop (PySpark). </br>
